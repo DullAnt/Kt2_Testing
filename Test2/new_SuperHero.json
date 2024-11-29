@@ -1,0 +1,34 @@
+{
+    "members": [
+        {
+            "name": "Wonder Woman",
+            "age": 5000,
+            "secretIdentity": "Diana Prince",
+            "powers": [
+                "Super strength",
+                "Flight",
+                "Lasso of Truth"
+            ]
+        },
+        {
+            "name": "Black Panther",
+            "age": 35,
+            "secretIdentity": "T'Challa",
+            "powers": [
+                "Enhanced strength",
+                "Vibranium suit",
+                "Agility"
+            ]
+        },
+        {
+            "name": "Captain Marvel",
+            "age": 30,
+            "secretIdentity": "Carol Danvers",
+            "powers": [
+                "Super strength",
+                "Flight",
+                "Energy blasts"
+            ]
+        }
+    ]
+}
